@@ -1,7 +1,7 @@
 #!/bin/bash
 
 app_name=shipping
-MYSQL_HOST=vinaydevops.online
+MYSQL_HOST=mysql.vinaydevops.online
 source ./common.sh
 check_root
 
